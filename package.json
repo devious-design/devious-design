@@ -1,6 +1,6 @@
 {
   "name": "devious-design",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A devious side project",
   "main": "index.js",
   "scripts": {

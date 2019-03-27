@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StephenEsser/Destoroyah.git"
+    "url": "git+https://github.com/StephenEsser/devious-design.git"
   },
   "author": "Stephen Esser",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StephenEsser/Destoroyah/issues"
+    "url": "https://github.com/StephenEsser/devious-design/issues"
   },
-  "homepage": "https://github.com/StephenEsser/Destoroyah#readme"
+  "homepage": "https://github.com/StephenEsser/devious-design#readme"
 }

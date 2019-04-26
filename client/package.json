@@ -10,6 +10,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "clean": "rm -rf node_modules",
     "test": "react-scripts test --coverage",
     "eject": "react-scripts eject"
   },

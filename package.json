@@ -16,9 +16,11 @@
   "scripts": {
     "start": "node ./bin/www",
     "build": "cd client && npm run build",
+    "clean": "rm -rf node_modules && cd client && npm run clean",
+    "clean:install": "npm run clean && npm install",
+    "heroku-postbuild": "cd client && npm install && npm run build",
     "postinstall": "cd client && npm install",
-    "test": "cd client && npm run test",
-    "heroku-postbuild": "cd client && npm install && npm run build"
+    "test": "cd client && npm run test"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
